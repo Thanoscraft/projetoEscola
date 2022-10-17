@@ -1,0 +1,67 @@
+button{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 25px;
+    border-radius: 10px ;
+    border: 5px solid  rgb(46, 34, 52);
+
+}
+body{
+    margin: 0 auto ;
+    text-align: center;
+    width: 700px;
+    background-color: white
+}
+html{
+    display:flex;
+    background-color: rgb(12, 1, 17);
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-image: url(./img/dicas-livros-og.webp);   
+}
+.texto2{
+    font-family: Arial, Helvetica, sans-serif;
+    color: red;
+}
+h1{
+   color: black; 
+}
+span{
+    color: greenyellow;
+}
+a:hover{
+    background-color: green;
+    color: greenyellow;
+    text-decoration: underline;
+}
+a{
+    color: indigo;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    padding: 0 40px;
+}
+.texto3{
+    color: lawngreen;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+}
+textarea{
+    font-family: Arial, Helvetica, sans-serif;
+}
+.texto4{
+color: lawngreen;
+font-family: Arial, Helvetica, sans-serif;
+font-size: 20px;
+}
+button{
+    background-color: lawngreen;
+    color: white;
+}
+.botao{
+    padding: 20px 0;
+}
+.mensagem{
+display: inline-flex;
+}
+div{
+    padding-top: 10px;
+}
+
